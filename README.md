@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, My name is Filipe de Azevedo Cardoso and I'm a 3rd year BSC Student @ FEUP in Informatics and Computing Engineering
+Hello, My name is Filipe de Azevedo Cardoso and I'm a 3rd year Bsc Student @ FEUP in Informatics and Computing Engineering.
 
 
 # 💻 Tech Stack:
